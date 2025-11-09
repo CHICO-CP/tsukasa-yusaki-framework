@@ -8,10 +8,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Pentesting-4DC71F?logo=lock&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-FF6B6B?logo=bookstack&logoColor=white)
-![Version](https://img.shields.io/badge/Version-1.0-9C59B6?logo=azurepipelines&logoColor=white)
+![Version](https://img.shields.io/badge/Version-2.1.0-9C59B6?logo=azurepipelines&logoColor=white)
 
 **Advanced Ethical Security Assessment Framework**  
-*Inspired by Tsukasa Yuzaki from TONIKAWA: Over The Moon For You*
+*Inspired name from the anime TONIKAWA*
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Ethics](#-ethics) • [Documentation](#-documentation)
 
@@ -153,23 +153,33 @@ python tsukasa.py \
 ### SMTP (Simple Mail Transfer Protocol)
 
 · STARTTLS and SSL/TLS support
+
 · Certificate verification
+
 · Authentication mechanism testing
+
 · Graceful error handling
 
 ### HTTP/HTTPS (Web Applications)
 
 · Form-based authentication
+
 · Basic authentication
+
 · Redirect handling
+
 · Session management
+
 · SSL certificate validation
 
 ### Security Features
 
 · Certificate Pinning: Verify server certificates
+
 · Protocol Validation: Ensure proper protocol implementation
+
 · Error Analysis: Detailed error reporting and analysis
+
 · Timeout Management: Configurable connection timeouts
 
 # ⚖️ Ethical Guidelines
@@ -179,15 +189,21 @@ python tsukasa.py \
 This framework must only be used for:
 
 · ✅ Authorized penetration testing
+
 · ✅ Security research with explicit permission
+
 · ✅ Educational purposes in controlled environments
+
 · ✅ Corporate security assessments with proper authorization
 
 ### Strictly Prohibited
 
 · ❌ Unauthorized access to systems
+
 · ❌ Testing without explicit permission
+
 · ❌ Malicious activities of any kind
+
 · ❌ Violation of laws or regulations
 
 Legal Compliance
@@ -195,8 +211,11 @@ Legal Compliance
 ### Users must:
 
 · Obtain proper authorization before testing
+
 · Respect all applicable laws and regulations
+
 · Follow responsible disclosure practices
+
 · Accept full responsibility for their actions
 
 # 🔧 Technical Details
@@ -225,15 +244,21 @@ Rate Limiting Algorithm
 The framework employs intelligent rate limiting:
 
 · Adaptive Delays: Based on attempt patterns
+
 · Random Jitter: Avoids predictable patterns
+
 · Progressive Throttling: Increases delays as attempts rise
+
 · Configurable Limits: User-defined maximum attempts
 
 Certificate Verification
 
 · Full SSL/TLS certificate chain validation
+
 · Expiration date checking
+
 · Issuer verification
+
 · Security grade assessment
 
 # 📊 Reporting
@@ -243,9 +268,13 @@ Assessment Reports
 Each assessment generates comprehensive reports including:
 
 · Executive Summary: High-level findings
+
 · Technical Details: Specific vulnerabilities identified
+
 · Certificate Analysis: SSL/TLS health check
+
 · Security Recommendations: Actionable remediation steps
+
 · Methodology: Assessment approach and scope
 
 Sample Report Structure
@@ -280,16 +309,23 @@ pip install -r requirements-dev.txt
 Contribution Guidelines
 
 · Follow PEP 8 coding standards
+
 · Include comprehensive documentation
+
 · Add tests for new features
+
 · Submit detailed pull requests
+
 · Respect the ethical purpose of the framework
 
 Code of Conduct
 
 · Be respectful and inclusive
+
 · Focus on constructive feedback
+
 · Maintain professional standards
+
 · Prioritize security and ethics
 
 # 🎓 Documentation
@@ -299,14 +335,19 @@ Full Documentation
 Comprehensive documentation is available in the /docs directory:
 
 · User Guide - Complete usage instructions
+
 · Technical Reference - API and technical details
+
 · Ethical Guidelines - Responsible usage policies
+
 · Troubleshooting - Common issues and solutions
 
 Support Resources
 
 · [GitHub Issues](http://github.com/CHICO-CP) - Bug reports and feature requests
+
 · Security Advisories - Security-related updates
+
 · Release Notes - Version history and changes
 
 # 📝 Disclaimer
@@ -326,16 +367,20 @@ Responsible Usage
 This framework is a powerful security tool that must be used responsibly. Always:
 
 · Obtain proper authorization before testing
+
 · Respect privacy and data protection laws
+
 · Follow responsible disclosure practices
+
 · Use within the boundaries of your authorized scope
 
-📞 Contact & Support
+# 📞 Contact & Support
 
-Developer: Ghost Developerl
+Developer: Ghost Developer
+
 Framework: Tsukasa Yusaki Security Framework v2.1.0
+
 Last Updated: November 2025
-Inspiration: Tsukasa Yuzaki from TONIKAWA: Over The Moon For You
 
 For security-related issues or ethical concerns, please review our Security Policy.
 
@@ -343,8 +388,6 @@ For security-related issues or ethical concerns, please review our Security Poli
 
 <div align="center">
 
-🌙 Precision in Security, Excellence in Execution
-
-"Inspired by the meticulous nature of Tsukasa Yuzaki - bringing care and precision to security assessment"
+🌟 If you find this tool useful, please give it a star on GitHub!
 
 </div>
